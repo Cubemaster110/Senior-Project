@@ -1,0 +1,5 @@
+DISPLAY "HELLO WORLD"
+display "GLORY TO ARTSOTZKA"
+display 289
+display 23 + 65
+
